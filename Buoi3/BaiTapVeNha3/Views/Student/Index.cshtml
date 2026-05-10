@@ -1,0 +1,296 @@
+@model BaiTapVeNha3.Models.StudentViewModel
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Đăng ký Chuyên ngành - Khoa CNTT";
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --primary-hover: #6366f1;
+            --secondary: #ec4899;
+            --bg-color: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Animated Background Blobs */
+        .blob {
+            position: absolute;
+            filter: blur(80px);
+            z-index: -1;
+            opacity: 0.6;
+            animation: move 10s infinite alternate cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .blob-1 {
+            top: -10%;
+            left: -10%;
+            width: 500px;
+            height: 500px;
+            background: var(--primary);
+            border-radius: 50%;
+        }
+
+        .blob-2 {
+            bottom: -20%;
+            right: -10%;
+            width: 600px;
+            height: 600px;
+            background: var(--secondary);
+            border-radius: 50%;
+            animation-delay: -5s;
+        }
+
+        @@keyframes move {
+            0% { transform: translate(0, 0) scale(1); }
+            100% { transform: translate(100px, 50px) scale(1.2); }
+        }
+
+        .container {
+            width: 100%;
+            max-width: 480px;
+            padding: 2rem;
+            z-index: 10;
+        }
+
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            padding: 3rem 2.5rem;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @@keyframes slideUp {
+            from { opacity: 0; transform: translateY(40px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .tag {
+            display: inline-block;
+            background: rgba(79, 70, 229, 0.2);
+            color: #818cf8;
+            padding: 0.4rem 1rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            border: 1px solid rgba(79, 70, 229, 0.3);
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #fff, #a5b4fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .form-group {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #cbd5e1;
+            transition: all 0.3s ease;
+        }
+
+        .form-control {
+            width: 100%;
+            background: rgba(15, 23, 42, 0.5);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1rem 1.2rem;
+            color: #fff;
+            font-family: inherit;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        .form-control::placeholder {
+            color: rgba(255, 255, 255, 0.2);
+        }
+
+        .form-control:focus {
+            border-color: var(--primary);
+            background: rgba(15, 23, 42, 0.8);
+            box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.15);
+        }
+
+        select.form-control option {
+            background: var(--bg-color);
+            color: #fff;
+            padding: 10px;
+        }
+
+        .error-message {
+            color: #f43f5e;
+            font-size: 0.8rem;
+            margin-top: 0.4rem;
+            display: block;
+            font-weight: 500;
+        }
+
+        .btn-submit {
+            width: 100%;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            border-radius: 12px;
+            padding: 1.1rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 1rem;
+            box-shadow: 0 10px 20px -10px rgba(236, 72, 153, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-submit::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: rgba(255, 255, 255, 0.2);
+            transform: rotate(45deg) translateY(-100%);
+            transition: transform 0.6s ease;
+        }
+
+        .btn-submit:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 25px -10px rgba(236, 72, 153, 0.6);
+        }
+
+        .btn-submit:hover::after {
+            transform: rotate(45deg) translateY(100%);
+        }
+
+        .btn-submit:active {
+            transform: translateY(0);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 2rem;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .footer span {
+            color: var(--secondary);
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+
+    <div class="container">
+        <div class="glass-card">
+            <div class="header">
+                <div class="tag">Khoa CNTT</div>
+                <h1>Đăng ký Chuyên ngành</h1>
+                <p class="subtitle">Định hình tương lai của bạn ngay hôm nay</p>
+            </div>
+
+            <form asp-action="Index" method="post">
+                <div class="form-group">
+                    <label asp-for="MSSV">Mã Số Sinh Viên</label>
+                    <input asp-for="MSSV" class="form-control" type="text" placeholder="Nhập MSSV (VD: 22110001)" />
+                    <span asp-validation-for="MSSV" class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="HoTen">Họ và Tên</label>
+                    <input asp-for="HoTen" class="form-control" type="text" placeholder="Nhập họ tên của bạn" />
+                    <span asp-validation-for="HoTen" class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DiemTB">Điểm Trung Bình</label>
+                    <input asp-for="DiemTB" class="form-control" type="number" step="0.01" min="0" max="10" placeholder="VD: 8.5" />
+                    <span asp-validation-for="DiemTB" class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ChuyenNganh">Chuyên ngành</label>
+                    <select asp-for="ChuyenNganh" class="form-control">
+                        <option value="">-- Lựa chọn chuyên ngành --</option>
+                        <option value="CNPM">Công nghệ Phần mềm</option>
+                        <option value="HTTT">Hệ thống Thông tin</option>
+                        <option value="ANM">An ninh Mạng</option>
+                        <option value="TTNT">Trí tuệ Nhân tạo</option>
+                        <option value="MMT">Mạng máy tính &amp; Truyền thông</option>
+                    </select>
+                    <span asp-validation-for="ChuyenNganh" class="error-message"></span>
+                </div>
+
+                <button type="submit" class="btn-submit">Hoàn tất Đăng ký</button>
+            </form>
+            
+            <div class="footer">
+                Tạo bởi <span>Nguyễn Nhất Duy</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

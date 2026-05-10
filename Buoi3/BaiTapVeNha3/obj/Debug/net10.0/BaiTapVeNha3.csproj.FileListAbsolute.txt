@@ -1,0 +1,195 @@
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\appsettings.Development.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\appsettings.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.staticwebassets.runtime.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.staticwebassets.endpoints.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.exe
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.deps.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.runtimeconfig.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.dll
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.pdb
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.AssemblyInfoInputs.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.AssemblyInfo.cs
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.csproj.CoreCompileInputs.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.MvcApplicationPartsAssemblyInfo.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.RazorAssemblyInfo.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.RazorAssemblyInfo.cs
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\bundle\BaiTapVeNha3.styles.css
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\projectbundle\BaiTapVeNha3.bundle.scp.css
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\20sseewquz-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qpvxae84ye-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\d8kfrlypkq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\xtm7y6lqas-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\d7cjtq5iae-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5c4u8bknjh-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\g77qu2zeee-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\hqw6ha3y5f-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\x37vuqz8vx-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\pnhud6bqrp-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\tl8pqq3vw7-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\678hwi0vpi-{0}-ub07r2b239-ub07r2b239.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\12hoaq0rw6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\9qvuxk1baj-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\7siznatgj9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\mqlvbix4of-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\e9ej8xwvn5-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5fwvvopryc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\06kk7jsyag-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kjukvnijwa-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\339nk61put-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qxtz2j8cf7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\i519r9kufu-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\10iln504bg-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\69yslgwbu5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\m831qwopep-{0}-06098lyss8-06098lyss8.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\ce5m0whd81-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\bfe2fxjpau-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\4dbk9p5ep3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\4wg7ect2ho-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\jzr73sw8e2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\0bicd8jexp-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kz6kpy609c-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\wcccs0qpn4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\u1t5osmyn4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\hq5h3mjnof-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\844g3xi06p-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\y4g366d2pa-{0}-493y06b0oq-493y06b0oq.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\616ctecqqp-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\3afal1fkyx-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qb0kcbjxk9-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qserusr0yh-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5127i5vwxl-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\txeaebw3i5-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\1zmuc47ftc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\16b7cvz37k-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\9mlutmct50-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\710hx8a3gc-{0}-47otxtyo56-47otxtyo56.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\zvz1iv4ipk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\u1zic0jgvm-{0}-356vix0kms-356vix0kms.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\z4gzj9on42-{0}-83jwlth58m-83jwlth58m.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kdc5nj13jw-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\f2wvh7qv53-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\w5qvoijxc9-{0}-ag7o75518u-ag7o75518u.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\04rd344ptm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\2has6fsys5-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\oot6rap1l9-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\lf8dak5uzb-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\6zusoqtt4y-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\sy47sexun7-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\fy4cpnfphc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\lqce79fl5h-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\3qi4dhz0kc-{0}-s17xjeh02l-s17xjeh02l.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\compressed\oejmpz07hw-{0}-s17xjeh02l-s17xjeh02l.gz
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.development.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\swae.build.ex.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.dll
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\refint\BaiTapVeNha3.dll
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.pdb
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.genruntimeconfig.cache
+D:\web\ASP\BaiTapVeNha3\BaiTapVeNha3\obj\Debug\net10.0\ref\BaiTapVeNha3.dll
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\appsettings.Development.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\appsettings.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.staticwebassets.endpoints.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.staticwebassets.runtime.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.exe
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.deps.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.runtimeconfig.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.dll
+E:\Lập trình web\Buoi3\BaiTapVeNha3\bin\Debug\net10.0\BaiTapVeNha3.pdb
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.AssemblyInfoInputs.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.AssemblyInfo.cs
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.csproj.CoreCompileInputs.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.RazorAssemblyInfo.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.RazorAssemblyInfo.cs
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.sourcelink.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\bundle\BaiTapVeNha3.styles.css
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\scopedcss\projectbundle\BaiTapVeNha3.bundle.scp.css
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\20sseewquz-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qpvxae84ye-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\d8kfrlypkq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\xtm7y6lqas-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\d7cjtq5iae-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5c4u8bknjh-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\g77qu2zeee-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\hqw6ha3y5f-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\x37vuqz8vx-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\pnhud6bqrp-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\tl8pqq3vw7-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\678hwi0vpi-{0}-ub07r2b239-ub07r2b239.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\12hoaq0rw6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\9qvuxk1baj-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\7siznatgj9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\mqlvbix4of-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\e9ej8xwvn5-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5fwvvopryc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\06kk7jsyag-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kjukvnijwa-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\339nk61put-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qxtz2j8cf7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\i519r9kufu-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\10iln504bg-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\69yslgwbu5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\m831qwopep-{0}-06098lyss8-06098lyss8.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\ce5m0whd81-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\bfe2fxjpau-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\4dbk9p5ep3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\4wg7ect2ho-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\jzr73sw8e2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\0bicd8jexp-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kz6kpy609c-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\wcccs0qpn4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\u1t5osmyn4-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\hq5h3mjnof-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\844g3xi06p-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\y4g366d2pa-{0}-493y06b0oq-493y06b0oq.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\616ctecqqp-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\3afal1fkyx-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qb0kcbjxk9-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\qserusr0yh-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\5127i5vwxl-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\txeaebw3i5-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\1zmuc47ftc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\16b7cvz37k-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\9mlutmct50-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\710hx8a3gc-{0}-47otxtyo56-47otxtyo56.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\zvz1iv4ipk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\u1zic0jgvm-{0}-356vix0kms-356vix0kms.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\z4gzj9on42-{0}-83jwlth58m-83jwlth58m.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\kdc5nj13jw-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\f2wvh7qv53-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\w5qvoijxc9-{0}-ag7o75518u-ag7o75518u.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\04rd344ptm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\2has6fsys5-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\oot6rap1l9-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\lf8dak5uzb-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\6zusoqtt4y-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\sy47sexun7-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\fy4cpnfphc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\lqce79fl5h-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\3qi4dhz0kc-{0}-s17xjeh02l-s17xjeh02l.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\compressed\oejmpz07hw-{0}-s17xjeh02l-s17xjeh02l.gz
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.development.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\swae.build.ex.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.dll
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\refint\BaiTapVeNha3.dll
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.pdb
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\BaiTapVeNha3.genruntimeconfig.cache
+E:\Lập trình web\Buoi3\BaiTapVeNha3\obj\Debug\net10.0\ref\BaiTapVeNha3.dll
