@@ -1,0 +1,50 @@
+@model List<Buoi4.Models.TodoItem>
+
+@{
+    ViewData["Title"] = "BÀI TẬP VẬN DỤNG 2";
+}
+
+<div class="todo-container glass-panel">
+    <div class="text-center mb-4">
+        <h2 class="text-danger fw-bold">BÀI TẬP VẬN DỤNG 2</h2>
+        <p class="text-muted">Xây dựng ứng dụng TodoList với các chức năng: Xem danh sách, chi tiết, thêm, sửa, xoá</p>
+    </div>
+
+    <h3 class="text-center mb-3 fw-bold">DANH SÁCH CÔNG VIỆC</h3>
+    
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-primary custom-btn-primary">Tạo mới công việc</a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table custom-table align-middle">
+            <thead>
+                <tr>
+                    <th>Mã công việc</th>
+                    <th>Tên công việc</th>
+                    <th>Trạng thái hoàn thành</th>
+                    <th class="text-end">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td class="fw-semibold">@item.Title</td>
+                        <td>
+                            <div class="form-check form-switch d-inline-block">
+                                <input class="form-check-input" type="checkbox" role="switch" checked="@item.IsCompleted" disabled>
+                            </div>
+                        </td>
+                        <td class="text-end action-links">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="text-decoration-none mx-1 text-primary">Sửa</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id" class="text-decoration-none mx-1 text-info">Chi tiết</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="text-decoration-none mx-1 text-danger">Xoá</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

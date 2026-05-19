@@ -1,0 +1,44 @@
+@model Buoi4.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Thêm mới công việc";
+}
+
+<div class="todo-container glass-panel form-container mx-auto" style="max-width: 600px;">
+    <div class="text-center mb-4">
+        <h2 class="text-danger fw-bold">BÀI TẬP VẬN DỤNG 2</h2>
+        <p class="text-muted">Xây dựng ứng dụng TodoList với các chức năng: Xem danh sách, chi tiết, thêm, sửa, xoá</p>
+    </div>
+
+    <h3 class="text-center mb-4 fw-bold">Thêm mới công việc</h3>
+    
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="control-label fw-semibold">Tên công việc</label>
+                    <input asp-for="Title" class="form-control custom-input" placeholder="Nhập tên công việc..." />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="form-group form-check mb-4 custom-checkbox">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="IsCompleted" /> Trạng thái hoàn thành
+                    </label>
+                </div>
+                <div class="form-group mb-3">
+                    <input type="submit" value="Tạo mới" class="btn btn-primary custom-btn-primary w-100" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="text-decoration-none text-muted go-back-link"><i class="bi bi-arrow-left"></i> Quay trở lại</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

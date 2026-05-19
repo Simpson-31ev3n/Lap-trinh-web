@@ -1,0 +1,43 @@
+@model Buoi4.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Chi tiết công việc";
+}
+
+<div class="todo-container glass-panel form-container mx-auto" style="max-width: 600px;">
+    <div class="text-center mb-4">
+        <h2 class="text-danger fw-bold">BÀI TẬP VẬN DỤNG 2</h2>
+        <p class="text-muted">Xây dựng ứng dụng TodoList với các chức năng: Xem danh sách, chi tiết, thêm, sửa, xoá</p>
+    </div>
+
+    <h3 class="text-center mb-4 fw-bold">Chi tiết công việc</h3>
+    
+    <hr />
+    <dl class="row px-4 text-start">
+        <dt class="col-sm-5 fw-semibold mb-2">
+            Mã công việc
+        </dt>
+        <dd class="col-sm-7 mb-2">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-5 fw-semibold mb-2">
+            Tên công việc
+        </dt>
+        <dd class="col-sm-7 mb-2">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-5 fw-semibold mb-2">
+            Trạng thái hoàn thành
+        </dt>
+        <dd class="col-sm-7 mb-2">
+            <div class="form-check form-switch d-inline-block p-0">
+                <input class="form-check-input ms-0" type="checkbox" role="switch" checked="@Model.IsCompleted" disabled>
+            </div>
+        </dd>
+    </dl>
+
+    <div class="text-center mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary custom-btn-primary mx-2 px-4">Sửa</a>
+        <a asp-action="Index" class="btn btn-outline-secondary mx-2 px-4 go-back-link">Quay trở lại</a>
+    </div>
+</div>
