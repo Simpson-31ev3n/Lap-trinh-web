@@ -441,10 +441,10 @@ E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\staticwebassets.build.json.cac
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\staticwebassets.development.json
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\swae.build.ex.cache
-E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\Buoi5.csproj.Up2Date
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\Buoi5.dll
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\refint\Buoi5.dll
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\Buoi5.pdb
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\Buoi5.genruntimeconfig.cache
 E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\ref\Buoi5.dll
+E:\Lập trình web\Buoi5\Buoi5\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
