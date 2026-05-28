@@ -1,0 +1,71 @@
+@model Buoi5.Models.Book
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sách";
+}
+
+<h2>Chỉnh sửa sách</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <div class="card shadow-sm p-4">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="Image" />
+                
+                <div class="mb-3">
+                    <label asp-for="Title" class="form-label">Tên sách</label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                
+                <div class="mb-3">
+                    <label asp-for="Author" class="form-label">Tác giả</label>
+                    <input asp-for="Author" class="form-control" />
+                    <span asp-validation-for="Author" class="text-danger"></span>
+                </div>
+                
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label asp-for="Price" class="form-label">Giá (VNĐ)</label>
+                        <input asp-for="Price" class="form-control" type="number" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="CategoryId" class="form-label">Chủ đề</label>
+                        <select asp-for="CategoryId" class="form-select" asp-items="ViewBag.CategoryId"></select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label">Cập nhật hình ảnh (Bỏ trống nếu không muốn đổi)</label>
+                    <input type="file" name="imageFile" class="form-control" accept="image/*" />
+                    @if (!string.IsNullOrEmpty(Model.Image))
+                    {
+                        <div class="mt-2 text-muted">
+                            <small>Ảnh hiện tại: @Model.Image</small>
+                        </div>
+                    }
+                </div>
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+                    <button type="submit" class="btn btn-primary px-4">Cập nhật</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
